@@ -10,3 +10,4 @@
 .idea/remote-mappings.xml
 .idea/vcs.xml
 pretrain_model/arccse_pretrain_base/tf_model.h5
+bustm_predict.zip
