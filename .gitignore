@@ -1,3 +1,12 @@
 /提交
 /bustm_predict.json
 /clue_scores.jpg
+.idea/inspectionProfiles/Project_Default.xml
+.idea/deployment.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/QN_STS_Model.iml
+.idea/remote-mappings.xml
+.idea/vcs.xml
+pretrain_model/arccse_pretrain_base/tf_model.h5
